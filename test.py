@@ -5,4 +5,5 @@
 #print(22/7)
 
 stringifade = 'abcdefgh'
+a = 5
 print(stringifade[3])
